@@ -1,4 +1,4 @@
-> Front-end website template.
+> Front-end website template for best experience.
 
 Prerequisites
 =============
